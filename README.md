@@ -42,7 +42,7 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 
 ## Projetos
 
-* [Previsão de demanda de produtos com Machine Learning](https://github.com/brunodoti/Previsao-de-demanda-de-produtos-com-Machine-Learning/blob/main/README.md)
+* [Previsão de demanda de produtos com Machine Learning](https://github.com/dymesbruno/Previsao-de-demanda-de-produtos-com-Machine-Learning/blob/main/README.md)
 
 ###
 
