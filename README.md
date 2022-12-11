@@ -45,7 +45,7 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 <h3 align="left">💬 Meu Blog no MEDIUM </h3>
 
 <p align="left">
-<a href="https://medium.com/@brunodoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brunodoti" height="30" width="40" /></a>
+*  [Medium](https://medium.com/@brunodoti)
 </p>
 
 
