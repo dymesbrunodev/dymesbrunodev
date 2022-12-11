@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello !!! Eu Sou DYMES BRUNO</h1>
+<h1 align="center">Hello !!! Eu Sou Bruno</h1>
 
 ###
 
