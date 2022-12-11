@@ -42,7 +42,7 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">💬 Meu Blog no MEDIUM </h3>
+<h3 align="left">📫 Meu Blog no MEDIUM </h3>
 
 
 * [Medium](https://medium.com/@brunodoti)
