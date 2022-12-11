@@ -39,13 +39,6 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 
 
 
-
-## Projetos
-
-
-
-
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
