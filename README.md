@@ -42,6 +42,8 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 
 ## Projetos
 
+*em construçao
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
