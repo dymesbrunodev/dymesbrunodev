@@ -33,7 +33,7 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 * Versionamento de Projetos: Git e Github
 * PySpark, Power BI, Excel, Estatística,Machine Learning,
 
-<h3 align="left">✅  Fale comigo </h3>
+<h3 align="left">🌱 Fale comigo </h3>
 
 * [LinkedIn](https://www.linkedin.com/in/bruno-silva-dev/)
 
