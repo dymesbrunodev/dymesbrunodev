@@ -22,7 +22,7 @@
 
 Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 
-###
+
 
 <h3>Skills:</h3>
 
