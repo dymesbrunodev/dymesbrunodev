@@ -43,11 +43,6 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 ## Projetos
 
 
-
-###
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
