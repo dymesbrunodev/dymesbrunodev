@@ -12,9 +12,9 @@
 
 - 🎓 Cursando Bacharelado em Gestão e Tecnologia Da Informação .
 - 📚 Estudo Ciencia de Dados há quase 1 ano e utilizo as seguintes plataformas: data science academy , stacka cademy  e Youtube.
-- 📘 Atualmente estou estudando **Automação e  Web Scraping**.
-- ✌️ Me Pergunte Sobre: Data Science e Business Intelligence
-- 🔭 Gosto De  Estudar : Python , Power BI , Sql e Machine Learning
+- 📘 Atualmente estou estudando : Automação e  Web Scraping .
+- ✌️ Me Pergunte Sobre: Data Science e Business Intelligence.
+- 🔭 Gosto De  Estudar : Python , Power BI , Sql e Machine Learning.
 
 <br>
 
