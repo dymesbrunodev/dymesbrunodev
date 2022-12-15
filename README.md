@@ -33,12 +33,20 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 * Versionamento de Projetos: Git e Github
 * PySpark, Power BI, Excel, Estatística,Machine Learning,
 
+<br>
+<br>
+
 <h3/> 🌐 Redes Sociais </h3>
 
+<br>
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunodev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunosilvadev/)
 [![Gmail Badge](https://img.shields.io/badge/contatodymesbruno@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodymesbruno@gmail.com)
 
+<br>
+<br>
 
 
 <!-- BLOG-POST-LIST:START -->
