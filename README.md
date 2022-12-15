@@ -1,12 +1,12 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif"  />
 </div>
-
+<br><br><br>
 
 
 <h1 align="center">Hello !!! Eu Sou  Dymes Bruno</h1>
 
-
+<br><br>
 
  
 
