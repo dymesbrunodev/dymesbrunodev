@@ -56,7 +56,7 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 * [Medium](https://medium.com/@brunodoti)
 
 
-h2> 📊 GitHub Stats:</h2>
+<h2> 📊 GitHub Stats:</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dymesbrunodev&show_icons=true&theme=radical)
 
