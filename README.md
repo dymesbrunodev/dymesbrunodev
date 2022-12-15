@@ -33,9 +33,11 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 * Versionamento de Projetos: Git e Github
 * PySpark, Power BI, Excel, Estatística,Machine Learning,
 
-<h3 align="left">🌱 Fale comigo </h3>
+<h3/> 🌐 Redes Sociais </h3>
 
-* [LinkedIn](https://www.linkedin.com/in/bruno-silva-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunodev/)
+[![Gmail Badge](https://img.shields.io/badge/contatodymesbruno@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodymesbruno@gmail.com)
 
 
 
@@ -46,6 +48,20 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 
 
 * [Medium](https://medium.com/@brunodoti)
+
+
+h2> 📊 GitHub Stats:</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CostaMateus7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMateus7&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+<div align="center">
+  
+   ![Snake animation](https://github.com/dymesbrunodev/dymesbrunodev/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 
 
