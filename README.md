@@ -49,8 +49,6 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 <br>
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">📫 Meu Blog no MEDIUM </h3>
 
@@ -59,16 +57,8 @@ Cursando Bacharelado em Gestão e Tecnologia Da Informação - univesp
 
 
 h2> 📊 GitHub Stats:</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CostaMateus7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMateus7&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 
-<div align="center">
-  
-   ![Snake animation](https://github.com/dymesbrunodev/dymesbrunodev/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dymesbrunodev&show_icons=true&theme=radical)
 
 
 
