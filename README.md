@@ -2,10 +2,10 @@
   <img height="200" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif"  />
 </div>
 
-###
+
 
 <h1 align="center">Hello !!! Eu Sou  Dymes Bruno</h1>
-###
+
 
 
  
@@ -16,17 +16,6 @@
 - ✌️ Me Pergunte Sobre: Data Science e Business Intelligence
 - 🔭 Gosto De  Estudar : Python , Power BI , Sql e Machine Learning
 
-
-<h3>Skills:</h3>
-
-* Python, SQL
-* Pandas, Plotly, Matplotlib, Scikit-learn
-* Análise exploratória, modelagem, limpeza e interpretação dos dados.
-* Databases: MySQL, PostgreSQL
-* Versionamento de Projetos: Git e Github
-* Flask, Excel, Estatística,Machine Learning,
-
-<br>
 <br>
 
 <h3/> 🌐 Redes Sociais </h3>
