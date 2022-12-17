@@ -24,7 +24,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunosilvadev/)
 [![Gmail Badge](https://img.shields.io/badge/contatodymesbruno@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodymesbruno@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@brunodoti)
 
