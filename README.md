@@ -42,11 +42,11 @@
 <br> 
 
 
-- [Avaliação de Risco de Crédito Nubank](Recomendando músicas do Spotify com K-Means)  
+- [ARecomendando músicas do Spotify com K-Means](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Recomendando%20m%C3%BAsicas%20com%20KMeans.ipynb)  
 
 <br> 
 
-- [Avaliação de Risco de Crédito Nubank](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Detec%C3%A7%C3%A3o_Fraude_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+- [Deploy de API Machine Learning](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Deploy_de_API_Machine_Learning.ipynb)
 
 
 
