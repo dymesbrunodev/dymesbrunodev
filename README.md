@@ -22,6 +22,10 @@
 
 <br>
 
+<h3/>Projetos</h3>
+
+
+      Avaliação deRisco de rédito Nubank (https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Avalia%C3%A7%C3%A3o_de_Risco_de_Cr%C3%A9dito_Nubank.ipynb)
 
 
 
