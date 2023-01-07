@@ -24,7 +24,11 @@
 
 <h3/>Projetos</h3>
 
-[Avaliação_de_Risco_de_Crédito_Nubank](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Avalia%C3%A7%C3%A3o_de_Risco_de_Cr%C3%A9dito_Nubank.ipynb)  
+- [Avaliação de Risco de Crédito Nubank](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Avalia%C3%A7%C3%A3o_de_Risco_de_Cr%C3%A9dito_Nubank.ipynb)  
+
+<br> 
+
+- [Avaliação de Risco de Crédito Nubank](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Detec%C3%A7%C3%A3o_Fraude_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 
 
