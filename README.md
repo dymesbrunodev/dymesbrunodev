@@ -42,7 +42,7 @@
 <br> 
 
 
-- [ARecomendando músicas do Spotify com K-Means](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Recomendando%20m%C3%BAsicas%20com%20KMeans.ipynb)  
+- [Recomendando músicas do Spotify com K-Means](https://github.com/dymesbrunodev/Portifolio-Data-Sciencie/blob/main/projetos/Recomendando%20m%C3%BAsicas%20com%20KMeans.ipynb)  
 
 <br> 
 
