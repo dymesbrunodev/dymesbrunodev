@@ -18,7 +18,6 @@
 
 <br>
 
-<h3/> 🌐 Redes Sociais </h3>
 
 <br>
 
@@ -55,6 +54,10 @@
 
 
 <br>
+
+
+
+<h3/> 🌐 Redes Sociais </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-dev/)
 [![Gmail Badge](https://img.shields.io/badge/contatodymesbruno@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodymesbruno@gmail.com)
